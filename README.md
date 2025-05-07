@@ -18,7 +18,7 @@ DDoS Attacks In Shell With Various Methods
 
 This tool Lists out Different variety of Ports to enable users to explore a variety of traffic flood types across multiple network layers. It includes support for:
 
-- **Layer 3/4 tests**, such as TCP, UDP, and ICMP floods, to simulate basic network-level congestion.
+- **Layer 3/4 tests**, such as TCP (SYN), UDP, and ICMP floods, to simulate basic network-level congestion.
 - **Layer 7 stress simulations**, using HTTP and HTTPS requests to examine how web servers handle abnormal traffic volumes.
 - **Service-specific targeting**, including port-optimized attacks for services like DNS, PSN, Xbox Live, and Minecraft.
 - **Custom vector options**, allowing users to select or combine different methods and payload patterns.
