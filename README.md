@@ -16,9 +16,9 @@ DDoS Attacks In Shell With Various Methods
 
 **FAST-DDoS** is a powerful high-speed network testing utility built in Bash, designed for use in security research, penetration testing labs, and educational environments. It generates traffic patterns that replicate common DDoS and DoS attack behaviors, making it useful for analyzing network response, resilience, and logging systems under stress.
 
-This tool Lists out Different variety of Ports to enable users to explore a variety of traffic flood types across multiple network layers. It includes support for:
+This tool lists out different variety of ports to enable users to explore a variety of traffic flood types across multiple network layers. It includes support for:
 
-- **Layer 3/4 tests**, such as TCP (SYN), UDP, and ICMP floods, to simulate basic network-level congestion.
+- **Layer 3/4 tests**, such as TCP SYN, UDP, and ICMP floods, to simulate basic network-level congestion.
 - **Layer 7 stress simulations**, using HTTP and HTTPS requests to examine how web servers handle abnormal traffic volumes.
 - **Service-specific targeting**, including port-optimized attacks for services like DNS, PSN, Xbox Live, and Minecraft.
 - **Custom vector options**, allowing users to select or combine different methods and payload patterns.
