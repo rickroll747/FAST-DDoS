@@ -3,7 +3,9 @@ Powerful DDoS Toolkit Built In Bash With Multiple Methods
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=235&color=gradient&text=FAST-DDoS&fontAlign=70&fontAlignY=45)
 
-<a href="https://github.com/rickroll747/FAST-DDoS"><img alt="Stars" src="https://img.shields.io/github/stars/rickroll747/FAST-DDoS?style=for-the-badge&color=yellow"></a>
+<a href="https://github.com/rickroll747/FAST-DDoS">
+  <img alt="Stars" src="https://img.shields.io/github/stars/rickroll747/FAST-DDoS?style=for-the-badge&color=yellow&cacheSeconds=10">
+</a>
 <a href="https://github.com/rickroll747/FAST-DDoS"><img alt="Forks" src="https://img.shields.io/github/forks/rickroll747/FAST-DDoS?style=for-the-badge&color=orange"></a>
 <a href="https://github.com/rickroll747/FAST-DDoS/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/rickroll747/FAST-DDoS?style=for-the-badge&color=red"></a>
 <a href="https://github.com/rickroll747/FAST-DDoS/issues"><img alt="Issues" src="https://img.shields.io/github/issues/rickroll747/FAST-DDoS?style=for-the-badge&color=green"></a>
