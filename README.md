@@ -12,6 +12,8 @@ DDoS Attacks In Shell With Various Methods
 # Disclaimer! This Tool is NOT for educational purposes.
 # Language
 ![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin?username=rickroll747-IN&repo=FAST-DDoS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 # What Is FAST-DDoS?
 # 🚀 FAST-DDoS
 
