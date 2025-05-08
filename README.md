@@ -31,10 +31,6 @@ This Repository Has Been Licensed With **AGPL 3.0!**
 That means I'm not responsible for **Any Damages or Being Held For Liability!**
 Also If you modify my script and publish it to your repository then you have to give out the credits too
 
-## Screenshots
-<p align=center>
-
-
 # Give A Star ⭐
 Thanks for using this Tool! Why not aswell Give a Star to this Project?<br>
 
@@ -47,8 +43,28 @@ Thanks for using this Tool! Why not aswell Give a Star to this Project?<br>
 # PORTS:
 ![lk](https://github.com/rickroll747/FAST-DDoS/blob/master/Screenshots/Ports.png?raw=true)
 
-# Features & Methods
-* h
+# Features & Methods for each Variety
+* AMP (Amplification)<br>
+  Minecraft Servers<br>
+  PSN Multiplayer Game / Game Traffic Servers<br>
+  PSN Party/Voice-Chat<br>
+  DNS
+
+* Layer 7 (HTTPS/HTTP)<br>
+  PSN Login/Website/Store<br>
+  Web Domains
+
+* Layer 4 (UDP/TCP)<br>
+  XBOX Live (UDP)<br>
+  UDP-Based DNS (UDP)<br>
+  Minecraft Servers (UDP)<br>
+  PSN Multiplayer Game / Game Traffic Servers (UDP)<br>
+  PSN Party/Voice-Chat (UDP)<br>
+  PC Hostname Resource/CPU Attacks (TCP)
+
+* Layer 3 (ICMP)<br>
+  Server / Other Type Of Hostname<br>
+  PC Hostname Network Attack
 
 # ️Setup & Usage
 ```bash
