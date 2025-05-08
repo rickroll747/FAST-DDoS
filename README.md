@@ -1,5 +1,5 @@
 # FAST-DDoS
-DDoS Attacks In Shell With Various Methods
+Powerful DDoS Toolkit Built In Bash With Multiple Methods
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=235&color=gradient&text=FAST-DDoS&fontAlign=70&fontAlignY=45)
 
