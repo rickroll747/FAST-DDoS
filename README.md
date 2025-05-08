@@ -25,6 +25,12 @@ This tool lists out different variety of ports to enable users to explore a vari
 - **Custom vector options**, allowing users to select or combine different methods and payload patterns.
 - **Amplification scenarios**, for studying the effects of improperly configured services that can reflect and magnify traffic.
 
+# Info
+- [x] Powerful
+- [x] Simple
+- [x] Methods for Layer 4, 7, 3, AMP
+- [x] Bypass (Cloudflare, OVH, NFO, Minecraft, etc...)  
+
 This DDoS Tool prioritizes simplicity and portability. It runs in most Linux environments without requiring dependencies other than hping3 and nmap and compilation, the attack modules can be adjusted or extended for deeper protocol experimentation.
 # License
 This Repository Has Been Licensed With **AGPL 3.0!**
@@ -44,6 +50,42 @@ Thanks for using this Tool! Why not aswell Give a Star to this Project?<br>
 ![lk](https://github.com/rickroll747/FAST-DDoS/blob/master/Screenshots/Ports.png?raw=true)
 
 # Features & Methods for each Variety
+## ⚙️ Features
+
+- **High Throughput**  
+  Designed to send large volumes of traffic efficiently with minimal system overhead.
+
+- **Multi-Vector Capabilities**  
+  Supports operations across Layer 3 (ICMP), Layer 4 (UDP/TCP), and Layer 7 (HTTP/HTTPS).
+
+- **Modular Structure**  
+  Easy to extend with new scripts or update existing ones without rewriting core components.
+
+- **Cross-Platform Compatibility**  
+  Works seamlessly across Linux, macOS, and Windows environments.
+
+- **Concurrent Execution**  
+  Utilizes multi-threading or multiprocessing to run parallel traffic streams with control over concurrency.
+
+- **Custom Payload Support**  
+  Allows payload customization for certain protocols, enabling flexibility in testing or simulation.
+
+- **Configurable Options**  
+  Users can define parameters like duration, delay, packet size, and power for tailored behavior.
+
+- **Real-Time Output Logging**  
+  Provides live stats for sent packets, active threads, and target response (if applicable).
+
+- **Lightweight CLI Interface**  
+  Simple command-line interface with intuitive flags and output format.
+
+- **Automatic Dependency Handling**  
+  Automatically checks and installs required Python libraries at first setup.
+- **Minimal Dependencies
+  Minimal Dependencies
+Only requires nmap and hping3, keeping setup lightweight.
+
+## Methods
 * AMP (Amplification)<br>
   Minecraft Servers<br>
   PSN Multiplayer Game / Game Traffic Servers<br>
@@ -68,12 +110,14 @@ Thanks for using this Tool! Why not aswell Give a Star to this Project?<br>
   PC Hostname Network Attack
 
 # ️Setup & Usage
+Install Dependencies:
 ```bash
 sudo apt install nmap
 ```
 ```bash
 sudo apt install hping3
 ```
+Clone and Run
 ```bash
 git clone https://github.com/rickroll747/FAST-DDoS
 ```
