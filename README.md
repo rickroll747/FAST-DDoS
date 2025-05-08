@@ -24,9 +24,8 @@ This tool lists out different variety of ports to enable users to explore a vari
 - **Service-specific targeting**, including port-optimized attacks for services like DNS, PSN, Xbox Live, and Minecraft.
 - **Custom vector options**, allowing users to select or combine different methods and payload patterns.
 - **Amplification scenarios**, for studying the effects of improperly configured services that can reflect and magnify traffic.
-FAST-DDoS prioritizes simplicity and portability. It runs in most Linux environments without requiring additional dependencies or compilation. The tool is suitable for automated scripts, manual testing, or CI-based analysis in isolated environments. Output is streamlined for quick interpretation, and the attack modules can be adjusted or extended for deeper protocol experimentation.
 
-FAST-DDoS prioritizes simplicity and portability. It runs in most Linux environments without requiring additional dependencies or compilation. The tool is suitable for automated scripts, manual testing, or CI-based analysis in isolated environments. Output is streamlined for quick interpretation, and the attack modules can be adjusted or extended for deeper protocol experimentation.
+This DDoS Tool prioritizes simplicity and portability. It runs in most Linux environments without requiring dependencies other than hping3 and nmap and compilation, the attack modules can be adjusted or extended for deeper protocol experimentation.
 # License
 This Repository Has Been Licensed With **AGPL 3.0!**
 That means I'm not responsible for **Any Damages or Being Held For Liability!**
