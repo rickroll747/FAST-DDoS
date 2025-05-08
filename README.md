@@ -60,7 +60,8 @@ Thanks for using this Tool! Why not aswell Give a Star to this Project?<br>
   Minecraft Servers (UDP)<br>
   PSN Multiplayer Game / Game Traffic Servers (UDP)<br>
   PSN Party/Voice-Chat (UDP)<br>
-  PC Hostname Resource/CPU Attacks (TCP)
+  PC Hostname Resource/CPU Attacks (TCP)<br>
+  Server / Other Type Of Hostname (UDP / TCP)
 
 * Layer 3 (ICMP)<br>
   Server / Other Type Of Hostname<br>
