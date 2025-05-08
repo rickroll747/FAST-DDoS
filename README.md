@@ -37,8 +37,8 @@ This Repository Has Been Licensed With **AGPL 3.0!**
 That means I'm not responsible for **Any Damages or Being Held For Liability!**
 Also If you modify my script and publish it to your repository then you have to give out the credits too
 
-# Give A Star ⭐
-Thanks for using this Tool! Why not aswell Give a Star to this Project?<br>
+# ⭐ Star This Repo
+If you find this tool useful, consider starring the repo to support!
 
 # Credits:
 ![lk](https://github.com/rickroll747/FAST-DDoS/blob/master/Screenshots/Credits.png?raw=true)
@@ -117,7 +117,7 @@ sudo apt install nmap
 ```bash
 sudo apt install hping3
 ```
-Clone and Run
+Clone and Run:
 ```bash
 git clone https://github.com/rickroll747/FAST-DDoS
 ```
