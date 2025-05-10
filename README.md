@@ -83,6 +83,7 @@ If you find this tool useful, consider starring the repo to support!
 - **Automatic Dependency Handling**  
   Automatically checks and installs required Python libraries at first setup.
 - **Minimal Dependencies**
+
 Only requires nmap and hping3, keeping setup lightweight.
 
 ## Methods
