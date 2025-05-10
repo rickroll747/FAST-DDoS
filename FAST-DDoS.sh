@@ -264,8 +264,8 @@ sleep 2
 
 function main_menu {
     echo "Select an option:"
-    echo "1. View Rules of Usage"
-	echo "2. View Ports Of Usage"
+    echo "1. View Rules & Disclaimers of Usage"
+	echo "2. View Ports & Methods Of Usage"
     echo "3. Proceed to Tool"
 	echo "4. View Credits"
     echo "5. Exit"
