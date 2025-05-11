@@ -20,7 +20,7 @@ echo -e "\e[1;32mWELCOME TO FAST-DDoS!\e[0m | \e[1;34mCREATOR: rickroll747\e[0m 
         "           - - - - - DDoS Tool - - - - -          "
         "                Made By Rickroll747               "
         " GITHUB: https://github.com/rickroll747/FAST-DDoS/ "
-        "  --●═━═━═━═━═━━═━═━═❴FAST-DDoS❵═━═━═━═━═━━═━═━═●--  "
+        "  --●═━═━═━━═━═━═━═━═❴FAST-DDoS❵═━═━═━═━═━━═━═━═●--  "
     )
     local colors=("\e[31m" "\e[33m" "\e[32m" "\e[36m" "\e[34m" "\e[35m")
     for ((i = 0; i < ${#lines[@]}; i++)); do
