@@ -125,5 +125,8 @@ git clone https://github.com/rickroll747/FAST-DDoS
 cd FAST-DDoS
 ```
 ```bash
+chmod +x FAST-DDoS.sh
+```
+```bash
 sudo ./FAST-DDoS.sh
 ```
