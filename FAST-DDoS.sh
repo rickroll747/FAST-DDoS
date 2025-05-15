@@ -203,6 +203,7 @@ echo -e "\e[1;32m                ╔══════════════�
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m53   \e[0m - \e[1;36mDNS (UDP/TCP)\e[0m                  \e[1;36mICMP\e[0m - \e[1;32mNone \e[1;32m        ║\e[0m"
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m443  \e[0m - \e[1;36mHTTPS\e[0m                          \e[1;36mTCP\e[0m  - \e[1;32m80 \e[1;32m          ║\e[0m"
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m80   \e[0m - \e[1;36mHTTP\e[0m                           \e[1;36mUDP\e[0m  - \e[1;32m80 \e[1;32m          ║\e[0m"
+echo -e "\e[1;32m                ║  \e[0m\e[1;32m443  \e[0m - \e[1;36mWeb Domains\e[0m \e[1;32m(HTTP/HTTPS)                           ║\e[0m"
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m80   \e[0m - \e[1;36mHOSTNAME (ICMP/UDP/TCP)\e[0m\e[1;32m                            ║\e[0m"
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m53   \e[0m - \e[1;36mDNS HOSTNAME *UDP-BASED DNS HOST/SERVER*\e[0m \e[1;32m(UDP)     ║\e[0m"
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m53   \e[0m - \e[1;36mDNS HOSTNAME\e[0m \e[1;32m(AMP)                                 ║\e[0m"
