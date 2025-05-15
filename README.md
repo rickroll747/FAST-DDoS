@@ -1,4 +1,3 @@
-![Preview](./assets/thumbnail.png)
 # FAST-DDoS
 Powerful DDoS Toolkit Built In Bash With Multiple Methods
 
