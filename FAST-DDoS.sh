@@ -290,7 +290,7 @@ function select_tool {
     echo "Select the method you want to use:"
     echo "1. Layer 4 (TCP SYN Flood)"
     echo "2. Layer 4 (UDP Flood)"
-    echo "3. Layer 7 (HTTP)"
+    echo "3. Layer 7 (HTTP/HTTPS)"
     echo "4. Amplification (AMP)"
     echo "5. Layer 3 (ICMP Flood)"
     read -p "Enter your choice (1/2/3/4/5): " method_choice
