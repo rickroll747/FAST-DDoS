@@ -47,7 +47,7 @@ If you find this tool useful, consider starring the repo to support!
 ![lk](https://github.com/rickroll747/FAST-DDoS/blob/master/Screenshots/Main%20Menu.png?raw=true)
 # Rules:
 ![lk](https://github.com/rickroll747/FAST-DDoS/blob/master/Screenshots/Rules.png?raw=true)
-# PORTS:
+# Ports:
 ![lk](https://github.com/rickroll747/FAST-DDoS/blob/master/Screenshots/Ports.png?raw=true)
 
 # Features & Methods for each Variety
