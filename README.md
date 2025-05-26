@@ -32,7 +32,7 @@ This tool lists out different variety of ports to enable users to explore a vari
 - [x] Methods for Layer 4, 7, 3, AMP
 - [x] Bypass (Cloudflare, OVH, NFO, Minecraft, etc...)  
 
-This DDoS Tool prioritizes simplicity and portability. It runs in most Linux environments without requiring dependencies other than hping3 and nmap and compilation, the attack modules can be adjusted or extended for deeper protocol experimentation.
+This DDoS Tool prioritizes simplicity and portability. It runs in most Linux environments without requiring dependencies other than hping3 and nmap, the attack modules can be adjusted or extended for deeper protocol experimentation.
 # License
 This Repository Has Been Licensed With **AGPL 3.0!**
 That means I'm not responsible for **Any Damages or Being Held For Liability!**
