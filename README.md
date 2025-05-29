@@ -7,8 +7,6 @@ Powerful DDoS Toolkit Built In Bash With Multiple Methods
 <a href="https://github.com/rickroll747/FAST-DDoS"><img alt="Forks" src="https://img.shields.io/github/forks/rickroll747/FAST-DDoS?style=for-the-badge&color=orange"></a>
 <a href="https://github.com/rickroll747/FAST-DDoS/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/rickroll747/FAST-DDoS?style=for-the-badge&color=red"></a>
 <a href="https://github.com/rickroll747/FAST-DDoS/issues"><img alt="Issues" src="https://img.shields.io/github/issues/rickroll747/FAST-DDoS?style=for-the-badge&color=green"></a>
-
-# Disclaimer! This Tool is NOT for educational purposes.
 # Language
 ![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
