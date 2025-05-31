@@ -20,7 +20,7 @@ echo -e "\e[1;32mWELCOME TO FAST-DDoS!\e[0m | \e[1;34mCREATOR: rickroll747\e[0m 
         "           - - - - - DDoS Tool - - - - -          "
         "                Made By Rickroll747               "
         " GITHUB: https://github.com/rickroll747/FAST-DDoS/ "
-        "  --●═━═━═━━═━═━═━═━═❴FAST-DDoS❵═━═━═━═━═━━═━═━═●--  "
+        "  --●═━═━═━═━═━━═━═━═❴FAST-DDoS❵═━═━═━═━═━━═━═━═●--  "
     )
     local colors=("\e[31m" "\e[33m" "\e[32m" "\e[36m" "\e[34m" "\e[35m")
     for ((i = 0; i < ${#lines[@]}; i++)); do
@@ -110,6 +110,7 @@ function display_amp_art {
         " d8888888888 888   \"   888 888        "
         "d88P     888 888       888 888        "
     )
+
 
     local total_lines=${#lines[@]}
     local half_lines=$(( total_lines / 2 ))
@@ -208,8 +209,8 @@ echo -e "\e[1;32m                ║  \e[0m\e[1;32m80   \e[0m - \e[1;36mHOSTNAME
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m53   \e[0m - \e[1;36mDNS HOSTNAME *UDP-BASED DNS HOST/SERVER*\e[0m \e[1;32m(UDP)     ║\e[0m"
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m53   \e[0m - \e[1;36mDNS HOSTNAME\e[0m \e[1;32m(AMP)                                 ║\e[0m"
 echo -e "\e[1;32m                ║  \e[0m\e[1;32mNone \e[0m - \e[1;36mPC HOSTNAME *Network Attack*\e[0m \e[1;32m(ICMP)                ║\e[0m"
-echo -e "\e[1;32m                ║  \e[0m\e[1;32m443  \e[0m - \e[1;36mPC HOSTNAME [HTTPS] *RESOURCE EXHAUSTION*\e[0m \e[1;32m(TCP)   ║\e[0m"
-echo -e "\e[1;32m                ║  \e[0m\e[1;32m80   \e[0m - \e[1;36mPC HOSTNAME [HTTP]  *RESOURCE EXHAUSTION*\e[0m \e[1;32m(TCP)   ║\e[0m"
+echo -e "\e[1;32m                ║  \e[0m\e[1;32m443  \e[0m - \e[1;36mPC HOSTNAME [HTTPS] *RESOURECE EXHAUSTION*\e[0m \e[1;32m(TCP)   ║\e[0m"
+echo -e "\e[1;32m                ║  \e[0m\e[1;32m80   \e[0m - \e[1;36mPC HOSTNAME [HTTP]  *RESOURECE EXHAUSTION*\e[0m \e[1;32m(TCP)   ║\e[0m"
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m443  \e[0m - \e[1;36mPC HOSTNAME [HTTPS] *CPU EXHAUSTION*  \e[0m \e[1;32m(TCP)       ║\e[0m"
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m80   \e[0m - \e[1;36mPC HOSTNAME [HTTP]  *CPU EXHAUSTION*  \e[0m \e[1;32m(TCP)       ║\e[0m"
 echo -e "\e[1;32m                ║  \e[0m\e[1;32m3074 \e[0m - \e[1;36mXBOX LIVE MULTIPLAYER & PARTY CHAT\e[0m\e[1;32m     (UDP)       ║\e[0m"
@@ -290,7 +291,7 @@ function select_tool {
     echo "Select the method you want to use:"
     echo "1. Layer 4 (TCP SYN Flood)"
     echo "2. Layer 4 (UDP Flood)"
-    echo "3. Layer 7 (HTTP/HTTPS)"
+    echo "3. Layer 7 (HTTP)"
     echo "4. Amplification (AMP)"
     echo "5. Layer 3 (ICMP Flood)"
     read -p "Enter your choice (1/2/3/4/5): " method_choice
