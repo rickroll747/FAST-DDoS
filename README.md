@@ -61,7 +61,7 @@ If you find this tool useful, consider starring the repo to support!
   Easy to extend with new scripts or update existing ones without rewriting core components.
 
 - **Cross-Platform Compatibility**  
-  Works seamlessly across Linux, macOS, and Windows environments.
+  Works seamlessly across Linux and Windows WSL environments.
 
 - **Concurrent Execution**  
   Utilizes multi-threading or multiprocessing to run parallel traffic streams with control over concurrency.
