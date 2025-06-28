@@ -32,9 +32,9 @@ This tool lists out different variety of ports to enable users to explore a vari
 
 This DDoS Tool prioritizes simplicity and portability. It runs in most Linux environments without requiring dependencies other than hping3 and nmap, the attack modules can be adjusted or extended for deeper protocol experimentation.
 # License
-This Repository Has Been Licensed With **AGPL 3.0!**
-That means I'm not responsible for **Any Damages or Being Held For Liability!**
-Also If you modify my script and publish it to your repository then you have to give out the credits too
+This repository has been Licensed with **AGPL 3.0!**
+That means i'm not responsible for **any damages!**
+also if you modify my script and publish it to your repository then you have to give out the credits too.
 
 # ⭐ Star This Repo
 If you find this tool useful, consider starring the repo to support!
