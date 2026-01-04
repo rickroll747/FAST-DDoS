@@ -10,7 +10,7 @@ Powerful DDoS Toolkit Built In Bash With Multiple Methods
 # Language
 ![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin?username=rickroll747&repo=FAST-DDoS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rickroll747&repo=FAST-DDoS&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 # What Is FAST-DDoS?
 # 🚀 FAST-DDoS
 
